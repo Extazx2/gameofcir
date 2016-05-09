@@ -26,9 +26,6 @@
 			</div>
 			<div id="gold">
 			</div>
-			<div id="twitter">
-				<a href="http://www.twitter.com/lecarapateur">Twitter</a>
-			</div>
 
 		</div>
 		<script src="js/entities.js"></script>
